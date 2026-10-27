@@ -219,7 +219,7 @@ For quick evaluation, use the persona switcher dropdown in the top navigation ba
 - **Project Name:** PulseOps — Autonomous Incident Command & SRE Reliability Platform
 - **Student Name:** Santhosh
 - **Problem Statement:** Eliminating MTTR bottlenecks, alert fatigue, and fragmented incident collaboration in distributed microservices through real-time telemetry, automated triage, interactive war rooms, and executable remediation runbooks.
-- **GitHub Repository:** `<your-github-repo-link>`
+- **GitHub Repository:** `https://github.com/syntax-santhosh/mernendterm.git`
 - **Deployed Application / Build:** Self-contained production build runnable via `npm start` or deployed to cloud platforms (Render, Railway, Heroku).
 - **Tech Stack:** Node.js, Express 5, React 18, Vite, WebSocket (`ws`), JWT, bcryptjs, Lucide Icons, Canvas Confetti.
 - **Major Features:** Automated Triage Severity Scoring, Real-time Collaborative War Room, Live Telemetry Streamer, Executable Runbook Runner with Terminal Log Streaming, Service Dependency Topology Cascade Analyzer, Chaos Engineering Drill Injector, and Automated Post-Mortem Synthesis with Markdown Export.
